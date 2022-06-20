@@ -1,0 +1,2 @@
+# krazy
+My first project.
