@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Navigation Bar</title>
+	<h2>Navigation Bar</h2>
 </head>
 <body>
 	<nav>
@@ -14,6 +14,6 @@
 		</ul>
 	</nav>
 	<h1>Welcome to my website</h1>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit venenatis nulla, vitae feugiat nunc hendrerit vitae. Curabitur eget massa quam. Aliquam ac ligula venenatis, feugiat neque eu, eleifend massa. Sed eget dolor nec ipsum facilisis accumsan. Nam vehicula turpis et risus efficitur, sed iaculis justo vulputate. Integer vitae suscipit nulla. Nunc accumsan nec massa ac sagittis. Maecenas et nulla id quam mattis commodo. Proin et iaculis nibh. Nam a ante ac leo fermentum semper. Donec cursus elit id felis convallis sagittis. Donec ut augue metus. Maecenas et tellus lacinia, aliquet justo sed, efficitur turpis. </p>
+	<p>Hey yo watsup, iean here, i'm just trying to practice my coding skills here.</p>
 </body>
 </html>
