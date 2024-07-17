@@ -14,6 +14,6 @@
 		</ul>
 	</nav>
 	<h1>aaaaaa</h1>
-	<p> im broke :/ </p>
+	<p> im broke :/</p>
 </body>
 </html>
